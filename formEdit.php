@@ -52,7 +52,7 @@ if (isset($_GET['id'])) {
 $conn->close();
 ?>
 
-<!-- Mirrored from seantheme.com/studio/form_elements.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 08 Aug 2024 06:31:15 GMT -->
+
 <head>
 <meta charset="utf-8">
 <title>Studio | Form Elements</title>
@@ -387,5 +387,5 @@ Adjust the appearance to reduce glare and give your eyes a break.
 <script src="../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="479b009c9152be080df6bd3e-|49" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8afd745f0ed24dd9","version":"2024.7.0","r":1,"serverTiming":{"name":{"cfL4":true}},"token":"4db8c6ef997743fda032d4f73cfeff63","b":1}' crossorigin="anonymous"></script>
 </body>
 
-<!-- Mirrored from seantheme.com/studio/form_elements.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 08 Aug 2024 06:31:15 GMT -->
+
 </html>
